@@ -9,7 +9,7 @@
     "restart": "pm2 restart NILA-MD"
   },
   "dependencies": {
-    "@whiskeysockets/baileys": "7.0.0",
+    "@whiskeysockets/baileys": "^7.0.0",
     "api-dylux": "^1.8.5",
     "axios": "^1.21.1",
     "browser-id3-writer": "^6.4.0",
